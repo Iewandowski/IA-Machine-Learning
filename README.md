@@ -22,3 +22,5 @@ Abaixo alguns dos projetos/tópicos que serão desenvolvidos:
 - [ ] Detecção de faces e reconhecimento facial em imagens
 - [ ] Rastreamento de objetos de vídeos
 - [ ] Simulação de um sistema multiagente para comunicação entre agentes utilizando o protocolo FIPA-REQUEST
+
+Durante o curso, será utilizada a linguagem de programação Python - incluindo mais de 5 horas de vídeo com exercícios com o básico sobre essa linguagem de programação - e também a ferramenta gráfica Orange.
