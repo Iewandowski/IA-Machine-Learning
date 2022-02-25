@@ -4,10 +4,10 @@ Este repositório contém as atividades desenvolvidas por mim, __[Carol Lewandow
 >"Trará uma visão teórica e principalmente prática sobre as principais e mais modernas técnicas de Inteligência Artificial! Este curso é considerado um guia completo pelo fato de apresentar desde conceitos mais básicos até técnicas mais modernas e avançadas, de modo que ao final você terá todas as ferramentas necessárias para construir soluções de Inteligência Artificial que podem ser aplicadas em problemas do dia-a-dia das empresas! O conteúdo está dividido em nove partes: algoritmos de busca, algoritmos de otimização, lógica difusa (fuzzy), machine learning, redes neurais (deep learning), processamento de linguagem natural, visão computacional, sistemas multiagente e também outras áreas de IA, como sistemas especialistas, GPS (general problem solver), redes bayesianas e raciocínio baseado em casos."
 
 Durante o curso, será utilizada a linguagem de programação Python - incluindo mais de 5 horas de vídeo com exercícios com o básico sobre essa linguagem de programação - e também a ferramenta gráfica Orange.
-- [X] 1.1 Python
+- [X] 1.0 Python
 
 #### - Abaixo alguns dos projetos/tópicos que serão desenvolvidos:
-#### Algoritmos de Busca:
+#### [] 2.0 Algoritmos de Busca:
 - [ ] Busca de rotas com melhores caminhos em mapas de cidades (busca gulosa e busca A*)
 - [ ] Escolha das passagens áreas mais baratas, em um cenário de compra de passagens em grupo e maximização de lucros no carregamento de produtos - algoritmos de otimização: hill climb (subida da encosta), simulated annealing (têmpera simulada) e algoritmo genético
 - [ ] Previsão do valor que você daria de gorjeta em um restaurante (lógica fuzzy)
