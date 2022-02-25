@@ -7,7 +7,7 @@ Durante o curso, será utilizada a linguagem de programação Python - incluindo
 - [X] 1.0 Python
 
 #### - Abaixo alguns dos projetos/tópicos que serão desenvolvidos:
-#### [] 2.0 Algoritmos de Busca:
+#### [ ] 2.0 Algoritmos de Busca:
 - [ ] Busca de rotas com melhores caminhos em mapas de cidades (busca gulosa e busca A*)
 - [ ] Escolha das passagens áreas mais baratas, em um cenário de compra de passagens em grupo e maximização de lucros no carregamento de produtos - algoritmos de otimização: hill climb (subida da encosta), simulated annealing (têmpera simulada) e algoritmo genético
 - [ ] Previsão do valor que você daria de gorjeta em um restaurante (lógica fuzzy)
